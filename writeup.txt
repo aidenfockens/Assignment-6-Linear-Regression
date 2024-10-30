@@ -1,0 +1,15 @@
+Consider why random data might still produce non-zero slopes and intercepts in regression:
+
+    Especially when there is less data, it is not unlikely that the data has some pattern to it. If their x increases as their y increases,
+    There will be a positive slope and an non-zero intercept that goes with that slope. As you increase the amount, this becomes
+    less and less likely
+
+
+Explain whatever you found interesting and your analysis. You can discuss any specific points or specific inputs you want to.
+
+    I found it interesting that, with increased variance, it is unclear whether you will get a very high intercept or slope. It makes
+    it very unpredictable.
+
+Explain any patterns you observe and discuss what happens when the sample size or noise level changes.
+
+    When the noise level increases, the plot is very hard to read. When sample size increases, it becomes much more normalized.
