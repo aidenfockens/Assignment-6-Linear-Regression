@@ -39,6 +39,3 @@ document.getElementById("regressionForm").addEventListener("submit", function (e
     .catch(error => console.error("Error:", error));
 });
 
-document.getElementById("refreshButton").addEventListener("click", function () {
-    window.location.reload();
-});
